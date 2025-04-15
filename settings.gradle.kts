@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "GlucEase"
+rootProject.name = "Gamifikasi"
 include(":app")
+ 
